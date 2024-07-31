@@ -7,8 +7,6 @@ The purpose of this project is to conduct anomaly analysis on healthcare/inpatie
 ## Methods
 
 The following methods are used for anomaly detection in this project:
-- Histogram-based Outlier Score (HBOS)
-- Empirical Cumulative Distribution Function Outlier Detection (ECOD)
 - Autoencoder
 - Isolation Forest (Iforest)
 - K-Nearest Neighbors (KNN)
